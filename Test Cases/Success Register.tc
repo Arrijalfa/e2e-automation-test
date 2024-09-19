@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Success Register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>118d1995-9a3d-4a59-b955-6c345ff412c0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5fc5faf3-7e1d-4aed-a1e8-4c7d348bc2a1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'test toko3'</defaultValue>
+      <description></description>
+      <id>5fc5faf3-7e1d-4aed-a1e8-4c7d348bc2a1</id>
+      <masked>false</masked>
+      <name>nama_toko</name>
+   </variable>
+</TestCaseEntity>
